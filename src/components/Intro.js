@@ -15,10 +15,10 @@ function Intro() {
   }, []);
 
   return (
-    <div className="container mt-5" id="intro">
+    <div className="container mt-5 " id="intro">
       {/* left */}
       <div className="row">
-        <div className="col-xl-8 col-md-5 col-xs-12 mt-5 col-sm-12">
+        <div className="col-xl-8 col-md-5 col-xs-12  col-sm-12">
           <div className="left mt-2">
             <div className="wrapper">
               <h1 className="title mb-3">Aleyna Çelik</h1>
