@@ -1,0 +1,34 @@
+.navbar{
+  background: transparent !important;
+}
+
+.nav-link{
+  font-size: 20px !important;
+  margin: 10px 0 ;
+  letter-spacing: 2px;
+}
+
+.link{
+  margin: auto;
+}
+
+
+.profile{
+  border-radius: 10px;
+}
+
+.right{
+  margin-left: 50px;
+}
+
+#intro{
+  padding-top: 50px;
+  height: 75vh;
+}
+.footer-text{
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 5px;
+  margin-bottom: 50px;
+  color: #4b4843
+}
